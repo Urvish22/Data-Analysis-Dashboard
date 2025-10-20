@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-This project analyzes sales data from Orders.csv (customer/location details) and Details.csv (financial/product data like amount, profit, category). The goal is to identify sales trends and profitability. The image file is a visual summary of the findings.
+#Sales Performance and Profitability Analysis
+
+##Objective: 
+To analyze sales data from the Orders.csv and Details.csv  files to identify key performance metrics and trends. The project aims to evaluate overall sales (Amount) and profitability (Profit) , understand which product categories (Category, Sub-Category) are most successful, and determine popular customer payment methods (PaymentMode). Additionally, it will analyze the geographical distribution of orders by State and City  to find high-performing regions.
