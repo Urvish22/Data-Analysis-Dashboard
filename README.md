@@ -1,4 +1,4 @@
-#Sales Performance and Profitability Analysis
+# Sales Performance and Profitability Analysis
 
-##Objective: 
+## Objective: 
 To analyze sales data from the Orders.csv and Details.csv  files to identify key performance metrics and trends. The project aims to evaluate overall sales (Amount) and profitability (Profit) , understand which product categories (Category, Sub-Category) are most successful, and determine popular customer payment methods (PaymentMode). Additionally, it will analyze the geographical distribution of orders by State and City  to find high-performing regions.
